@@ -1,0 +1,22 @@
+{
+  "name": "nrs-tutorijal7",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kerim246/nrs-tutorijal7.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kerim246/nrs-tutorijal7/issues"
+  },
+  "homepage": "https://github.com/Kerim246/nrs-tutorijal7#readme",
+  "description": "",
+  "dependencies": {
+    "chai": "^4.2.0"
+  }
+}
